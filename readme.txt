@@ -85,6 +85,7 @@ git commit -am "写上你要写的话，作为你认识的标志"
 git log 
 	log 是日志的意思，就是使用git查看日志的意思？
 	如果你没法推出查看日志，按下q键，quit推出的缩写
+git reflog
 git reset --hard <commit version>
 	不给自己加戏了，你们的压力很大的，我懂！
 	回退到曾经提交过的版本
@@ -94,6 +95,7 @@ git reset --hard <commit version>
 	版本号是通过git log查到的，复制粘贴就行
 git status
 	查看当前到底干了什么东西
+git wdiff
 	
 我只列我我觉得用的上的命令
 git学习资料，就推荐progit看完第一章就够你用了，有中文版，不要方。
